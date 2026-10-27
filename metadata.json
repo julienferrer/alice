@@ -1,0 +1,6 @@
+{
+  "name": "Merci Alice",
+  "description": "Un hommage éclatant et interactif : MERCIIIII ALICE T'ES LA BOSS 😘",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
